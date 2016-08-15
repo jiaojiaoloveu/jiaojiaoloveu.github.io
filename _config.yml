@@ -8,7 +8,7 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: jiaojiaoloveu
+title: BabyNine
 subtitle: "A simple yet classy theme for your Jekyll website or blog"
 email: jiaoywloveyou@gmail.com
 name: Yuwei Jiao
@@ -71,29 +71,29 @@ descriptions:
 social:
   - name: Twitter
     icon: twitter
-    username: TheBenCentra
-    url: https://twitter.com/TheBenCentra
+    username: jiaojiaoMay
+    url: https://twitter.com/jiaojiaoMay
     desc: Follow me on Twitter
     share: true
 
   - name: Facebook
     icon: facebook
-    username: thebencentra
-    url:
+    username: Alicia Jiao
+    url: https://www.facebook.com/jiaojiaoloveu
     desc: Friend me on Facebook
     share: true
 
   - name: GitHub
     icon: github
-    username: bencentra
-    url: https://github.com/bencentra
+    username: jiaojiaoloveu
+    url: https://github.com/jiaojiaoloveu
     desc: Fork me on GitHub
     share: false
 
   - name: LinkedIn
     icon: linkedin
-    username: Ben Centra
-    url: https://www.linkedin.com/pub/ben-centra/47/769/60a
+    username: Yuwei Jiao
+    url: 
     desc: Connect with me on LinkedIn
     share: true
 
