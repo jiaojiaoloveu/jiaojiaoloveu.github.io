@@ -643,3 +643,18 @@ pre code.hljs {
           margin-right: 0; } }
     .site-footer .site-signature a {
       text-decoration: underline; }
+
+div.gallery-cell {
+  width: 20%;
+  text-align: center;
+  display: inline-block;
+  padding: 3px; }
+
+img.gallery-image {
+  width: 100%; }
+
+div.gallery-box {
+  display: block;
+  text-align: left;
+  width: 100%;
+  font-size: 0; }
