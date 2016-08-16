@@ -4,12 +4,12 @@ title: "Photo"
 permalink: /photo/
 ---
 
-<div class="gallery-box">
+<div class="g-box">
     {% for image in site.static_files %}
         {% if image.path contains 'assets/pic' %}
-            <div class="gallery-cell">
+            <div class="g-cell">
             <a href = {{ image.path  }} data-lightbox="my_photo_gallary">
-            <img src={{ image.path }} class="gallery-image"></a>
+            <img src={{ image.path }} class="g-image"></a>
             </div>
         {% endif %}
     {% endfor %}

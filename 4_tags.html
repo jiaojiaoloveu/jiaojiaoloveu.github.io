@@ -3,3 +3,11 @@ layout: page
 title: "Tag"
 permalink: /tags/
 ---
+
+{% for category in site.tags %}
+  {% capture cat %}{{ category | first }}{% endcapture %}
+  <span><strong>
+      <a href="{{ site.baseurl }}/tag/{{cat}}">{{cat}}</a>
+      </strong></span>
+{% endfor %}
+<br>

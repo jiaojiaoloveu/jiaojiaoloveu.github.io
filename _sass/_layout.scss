@@ -430,21 +430,54 @@ pre code.hljs {
 	}
 }
 
-div.gallery-cell {
-  width: 20%;
-  text-align: center;
+
+div.g-box{
+  display: block;
+  column-count: 5;
+  column-gap: 5px;
+  column-fill: auto;
+  font-size: 0;
+  width: 100%;
+}
+
+div.g-cell{
   display: inline-block;
-  padding: 3px;
+  margin: 5px;
+  width: 100%;
 }
 
-img.gallery-image{
+img.g-img{
+  width: 100%;
+}
+
+@media (min-width: 1024px) {
+  div.g-box{
     width: 100%;
+    column-count: 5;
+  }
 }
 
-div.gallery-box {
-   display: block;
-   text-align: left;
-   width: 100%;
-   font-size: 0;
+@media (min-width: 768px) and (max-width: 1024px) {
+  div.g-box{
+    width: 100%;
+    column-count: 4;
+  }
 }
 
+@media (min-width: 600px) and (max-width: 768px) {
+  div.g-box{
+    column-count: 3;
+  }
+}
+
+@media (min-width: 480px) and (max-width: 600px){
+  div.g-box{
+    column-count: 2;
+  }
+}
+
+@media (max-width: 480px) {
+  div.g-box{
+    column-count: 2;
+  }
+}
