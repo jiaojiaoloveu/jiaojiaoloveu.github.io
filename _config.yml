@@ -50,8 +50,18 @@ descriptions:
   - cat: jekyll
     desc: "Posts describing Jekyll setup techniques."
 
-  - cat: dummy
+  - cat: Dummy
     desc: "Just some placeholder posts, lorem ipsum and the rest."
+
+images:
+  - image_path: /assets/pic/jiaoyuwei.jpg
+    title: test
+  - image_path: /assets/pic/instacode.png
+    title: test
+  - image_path: /assets/pic/logo.png
+    title: logo
+  - image_path: /assets/pic/logo2.png
+    title: logo2
 
 # Social icons and sharing options
 #
