@@ -6,6 +6,8 @@ gems:
   - jekyll-paginate
 exclude:
   - "/vendor/"
+include:
+    [.nojekyll]
 
 # Site settings
 title: BabyNine

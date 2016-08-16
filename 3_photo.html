@@ -3,18 +3,14 @@ layout: page
 title: "Photo"
 permalink: /photo/
 ---
-<ul class="photo-galery">
+
+<div class="gallery-box">
     {% for image in site.static_files %}
         {% if image.path contains 'assets/pic' %}
+            <div class="gallery-cell">
             <a href = {{ image.path  }} data-lightbox="my_photo_gallary">
-            <img src={{ image.path }}></a>
+            <img src={{ image.path }} class="gallery-image"></a>
+            </div>
         {% endif %}
     {% endfor %}
-</ul>
-
-<script>
-    lightbox.option({
-      'resizeDuration': 200,
-      'wrapAround': true
-    })
-</script>
+</div>
