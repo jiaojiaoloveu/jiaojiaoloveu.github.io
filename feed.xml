@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Yuwei Jiao</title>
+    <title>Yuwei Jiao's Home</title>
     <description>This is Yuwei Jiao's Home!
 </description>
     <link>http://jiaojiaoloveu.github.io/</link>
     <atom:link href="http://jiaojiaoloveu.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 17 Aug 2016 21:17:34 +0800</pubDate>
-    <lastBuildDate>Wed, 17 Aug 2016 21:17:34 +0800</lastBuildDate>
+    <pubDate>Wed, 17 Aug 2016 21:50:15 +0800</pubDate>
+    <lastBuildDate>Wed, 17 Aug 2016 21:50:15 +0800</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -105,26 +105,6 @@ function demo(string, times) {
         
         
         <category>Jekyll</category>
-        
-      </item>
-    
-      <item>
-        <title>Dummy Post</title>
-        <description>&lt;p&gt;This is just a dummy post. Lorem ipsum and all the rest.&lt;/p&gt;
-
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 18 Apr 2015 16:43:59 +0800</pubDate>
-        <link>http://jiaojiaoloveu.github.io/dummy/2015/04/18/dummy.html</link>
-        <guid isPermaLink="true">http://jiaojiaoloveu.github.io/dummy/2015/04/18/dummy.html</guid>
-        
-        
-        <category>Dummy</category>
         
       </item>
     
