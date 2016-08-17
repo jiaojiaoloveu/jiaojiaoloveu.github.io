@@ -6,7 +6,7 @@ permalink: /photo/
 
 <div class="g-box">
     {% for image in site.static_files %}
-        {% if image.path contains 'assets/pic' %}
+        {% if image.path contains 'assets/thumbnail' %}
             <div class="g-cell">
             <a href = {{ image.path  }} data-lightbox="my_photo_gallary">
             <img src={{ image.path }} class="g-image"></a>
