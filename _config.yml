@@ -10,12 +10,12 @@ include:
     [.nojekyll]
 
 # Site settings
-title: BabyNine
+title: Yuwei Jiao
 subtitle: "A simple yet classy theme for your Jekyll website or blog"
 email: jiaoywloveyou@gmail.com
 name: Yuwei Jiao
 description: >
-  A simple yet classy theme for your Jekyll website or blog.
+    This is Yuwei Jiao's Home!
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
