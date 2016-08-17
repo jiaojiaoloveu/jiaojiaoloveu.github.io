@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>BabyNine</title>
-    <description>A simple yet classy theme for your Jekyll website or blog.
+    <title>Yuwei Jiao</title>
+    <description>This is Yuwei Jiao's Home!
 </description>
     <link>http://jiaojiaoloveu.github.io/</link>
     <atom:link href="http://jiaojiaoloveu.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 17 Aug 2016 19:30:15 +0800</pubDate>
-    <lastBuildDate>Wed, 17 Aug 2016 19:30:15 +0800</lastBuildDate>
+    <pubDate>Wed, 17 Aug 2016 21:15:45 +0800</pubDate>
+    <lastBuildDate>Wed, 17 Aug 2016 21:15:45 +0800</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
