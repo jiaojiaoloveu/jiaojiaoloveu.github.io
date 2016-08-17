@@ -450,6 +450,18 @@ img.g-img{
   width: 100%;
 }
 
+div.t-cell {
+  text-align: center;
+  display: inline-block;
+  padding: 3px;
+}
+
+div.t-box {
+   display: block;
+   text-align: left;
+   width: 100%;
+}
+
 @media (min-width: 1024px) {
   div.g-box{
     width: 100%;

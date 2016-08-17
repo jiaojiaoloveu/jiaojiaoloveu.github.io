@@ -3,11 +3,19 @@ layout: page
 title: "Tag"
 permalink: /tags/
 ---
+<div class="t-box">
 
+{% assign sum = site.posts | size %}
 {% for category in site.tags %}
   {% capture cat %}{{ category | first }}{% endcapture %}
-  <span><strong>
-      <a href="{{ site.baseurl }}/tag/{{cat}}">{{cat}}</a>
-      </strong></span>
+  <div class="t-cell">
+        {% assign freq = site.tags[cat] | size | times: 1.0 | divided_by: sum %}
+        {% if freq > 0.8 %} <font size = "+4"><strong><a href="{{ site.baseurl }}/tag/{{cat}}">{{cat}}</a></strong></font>
+        {% elsif freq > 0.6 %} <font size = "+3"><strong><a href="{{ site.baseurl }}/tag/{{cat}}">{{cat}}</a></strong></font>
+        {% elsif freq > 0.4 %} <font size = "+1"><strong><a href="{{ site.baseurl }}/tag/{{cat}}">{{cat}}</a></strong></font>
+        {% elsif freq > 0.2 %} <font size = "+0"><strong><a href="{{ site.baseurl }}/tag/{{cat}}">{{cat}}</a></strong></font>
+        {% else %} <font size = "-1"><strong><a href="{{ site.baseurl }}/tag/{{cat}}">{{cat}}</a></strong></font>
+        {% endif %}
+    </div>
 {% endfor %}
 <br>
