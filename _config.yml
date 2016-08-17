@@ -42,7 +42,7 @@ jekyll-archives:
     tag: '/tag/:name/'
 
 # Disqus comments
-disqus_shortname: bencentra
+disqus_shortname: jiaojiaoloveu
 
 # Google analytics
 # ga_tracking_id: "UA-XXXX-1"
@@ -111,8 +111,8 @@ social:
 
   - name: Google+
     icon: google-plus
-    username:
-    url:
+    username: Yuwei Jiao
+    url: https://plus.google.com/u/0/117259182689754192012
     desc: Add me to your Circles
     share: true
 
@@ -135,7 +135,7 @@ social:
     username:
     url:
     desc: Follow me on Pinterest
-    share: true
+    share: false
 
   - name: SoundCloud
     icon: soundcloud
@@ -184,7 +184,7 @@ social:
     username:
     url:
     desc: Share to Reddit
-    share: true
+    share: false
 
 # Social sharing protocols
 # These are for automatically generating sharing metadata for FB and Twitter
