@@ -1,5 +1,8 @@
 #/bin/bash
 echo $1
+cd assets
+sh pic.sh
+cd ..
 jekyll build
 git add .
 git commit -m $1
