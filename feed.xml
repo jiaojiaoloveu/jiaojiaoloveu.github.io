@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yuwei Jiao's Home</title>
-    <description>This is Yuwei Jiao's Home!
+    <description>Welcome to BabyNine's sweet sweet Home!
 </description>
     <link>http://jiaojiaoloveu.github.io/</link>
     <atom:link href="http://jiaojiaoloveu.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 22 Aug 2016 16:10:25 +0800</pubDate>
-    <lastBuildDate>Mon, 22 Aug 2016 16:10:25 +0800</lastBuildDate>
+    <pubDate>Mon, 22 Aug 2016 17:21:57 +0800</pubDate>
+    <lastBuildDate>Mon, 22 Aug 2016 17:21:57 +0800</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -102,10 +102,10 @@
         
         <category>Music</category>
         
-        <category>Carpenters</category>
+        <category>carpenters</category>
         
         
-        <category>Diary</category>
+        <category>diary</category>
         
       </item>
     
