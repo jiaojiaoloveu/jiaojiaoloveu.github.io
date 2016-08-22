@@ -3,8 +3,8 @@ layout: post
 title: "Yesterday Once More"
 date: 2016-08-19 13:54:00
 author: BabyNine
-categories: Diary
-tags: Music Carpenters
+categories: diary
+tags: Music carpenters
 cover: "/assets/pic/carpenters.jpg"
 ---
 
