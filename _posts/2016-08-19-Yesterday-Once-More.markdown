@@ -4,7 +4,7 @@ title: "Yesterday Once More"
 date: 2016-08-19 13:54:00
 author: BabyNine
 categories: Diary
-tags: Music Carpenters
+tags: music Carpenters
 cover: "/assets/pic/carpenters.jpg"
 ---
 

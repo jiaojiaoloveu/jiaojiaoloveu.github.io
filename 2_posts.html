@@ -6,7 +6,7 @@ permalink: /posts/
 
 {% for category in site.categories %}
   {% capture cat %}{{ category | first | downcase }}{% endcapture %}
-  <h2>{{ cat | capitalize }}</h2>
+  <h2>{{ category | first }}</h2>
   {% for desc in site.descriptions %}
   {% capture dcat %}{{ desc.cat | downcase }}{% endcapture %}
       {% if dcat == cat %}
@@ -14,7 +14,8 @@ permalink: /posts/
       {% endif %}
   {% endfor %}
   <ul class="posts-list">
-  {% for post in site.categories[cat] %}
+    {% capture cat %}{{ category | first }}{% endcapture %}
+    {% for post in site.categories[cat] %}
     <li>
       <strong>
         <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
