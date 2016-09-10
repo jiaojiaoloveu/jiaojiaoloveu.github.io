@@ -8,8 +8,8 @@ permalink: /photo/
     {% for image in site.static_files %}
         {% if image.path contains 'assets/thumbnail' %}
             <div class="g-cell">
-                <a href = {{ image.path | replace: 'thumbnail', 'markpic' }} data-lightbox="my_photo_gallary">
-                <img src={{ image.path }} class="g-image"></a>
+                <a href = {{ image.path | prepend: site.baseurl | replace: 'thumbnail', 'markpic'}} data-lightbox="my_photo_gallary">
+                <img src={{ image.path | prepend: site.baseurl }} class="g-image"></a>
             </div>
         {% endif %}
     {% endfor %}
