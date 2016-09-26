@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "cs486 Talk on Big Data"
+title: "cs886 Talk on Big Data"
 date: 2016-09-13 16:00:00
 author: BabyNine
 categories: CourseNote
-tags: waterloo big\_data
+tags: waterloo big_data
 ---
 
 # PCA Facial Recognition

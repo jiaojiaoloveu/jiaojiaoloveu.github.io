@@ -1,3 +1,12 @@
+---
+layout: post
+title: "cs886 Talk on Big Data"
+date: 2016-09-15 16:00:00
+author: BabyNine
+categories: CourseNote
+tags: waterloo big_data
+---
+
 # Data Mining Meets in City Hall
 
 -   data.gov: tailor it open data offerings to the wants and demands through the creation of online communities.
