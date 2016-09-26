@@ -6,9 +6,72 @@
 </description>
     <link>http://jiaojiaoloveu.github.io/</link>
     <atom:link href="http://jiaojiaoloveu.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 10 Sep 2016 14:34:44 -0400</pubDate>
-    <lastBuildDate>Sat, 10 Sep 2016 14:34:44 -0400</lastBuildDate>
+    <pubDate>Mon, 26 Sep 2016 18:51:51 -0400</pubDate>
+    <lastBuildDate>Mon, 26 Sep 2016 18:51:51 -0400</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Cs846shortpaper1</title>
+        <description>&lt;h1 id=&quot;data-mining-meets-in-city-hall&quot;&gt;Data Mining Meets in City Hall&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;data.gov: tailor it open data offerings to the wants and demands through the creation of online communities.&lt;/li&gt;
+  &lt;li&gt;reaching the public: accessible to the wealth.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;small-data-where-n--me&quot;&gt;small data, where n = me&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;small data derived from our individual traces can change the way we think and practice health.&lt;/li&gt;
+  &lt;li&gt;behaviour pulse graph&lt;/li&gt;
+  &lt;li&gt;data liberation: data that is now restricted to our service providers should be made available to use.(eg. social network activities)&lt;/li&gt;
+  &lt;li&gt;data analysis: data will be broad and heterogeneous&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;openmhealth.org&quot;&gt;open mHealth&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;smalldata.io&quot;&gt;small data apps&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;design-and-ethics-in-the-era-of-big-data&quot;&gt;Design and Ethics in the Era of Big Data&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;sensor is everywhere&lt;/li&gt;
+  &lt;li&gt;data as a commodity&lt;/li&gt;
+  &lt;li&gt;responsible? designers : consumers&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;advancing-the-frontier-of-data-driven-healthcare&quot;&gt;Advancing the Frontier of Data-driven Healthcare&lt;/h1&gt;
+
+&lt;h1 id=&quot;really-really-big-data---nasa-at-the-forefront-of-analytics&quot;&gt;Really, Really Big Data - NASA at the Forefront of Analytics&lt;/h1&gt;
+
+&lt;h1 id=&quot;can-twitter-proxy-the-investors-sentiment-the-case-for-the-technology-sector&quot;&gt;Can Twitter Proxy the Investors’ Sentiment? The Case for the Technology Sector&lt;/h1&gt;
+
+</description>
+        <pubDate>Thu, 15 Sep 2016 00:00:00 -0400</pubDate>
+        <link>http://jiaojiaoloveu.github.io/2016/09/15/cs846shortpaper1.html</link>
+        <guid isPermaLink="true">http://jiaojiaoloveu.github.io/2016/09/15/cs846shortpaper1.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>cs486 Talk on Big Data</title>
+        <description>&lt;h1 id=&quot;pca-facial-recognition&quot;&gt;PCA Facial Recognition&lt;/h1&gt;
+
+&lt;h1 id=&quot;small-data-enables-prediction-of-obama-wins&quot;&gt;Small Data Enables Prediction of Obama Wins&lt;/h1&gt;
+
+&lt;h1 id=&quot;industry&quot;&gt;Industry&lt;/h1&gt;
+</description>
+        <pubDate>Tue, 13 Sep 2016 12:00:00 -0400</pubDate>
+        <link>http://jiaojiaoloveu.github.io/coursenote/2016/09/13/cs846Talk.html</link>
+        <guid isPermaLink="true">http://jiaojiaoloveu.github.io/coursenote/2016/09/13/cs846Talk.html</guid>
+        
+        <category>waterloo</category>
+        
+        <category>big\_data</category>
+        
+        
+        <category>CourseNote</category>
+        
+      </item>
     
       <item>
         <title>Yesterday Once More</title>
