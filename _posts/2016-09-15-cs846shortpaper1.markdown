@@ -1,0 +1,26 @@
+# Data Mining Meets in City Hall
+
+-   data.gov: tailor it open data offerings to the wants and demands through the creation of online communities.
+-   reaching the public: accessible to the wealth.
+
+# small data, where n = me
+
+-   small data derived from our individual traces can change the way we think and practice health.
+-   behaviour pulse graph
+-   data liberation: data that is now restricted to our service providers should be made available to use.(eg. social network activities)
+-   data analysis: data will be broad and heterogeneous
+-   [open mHealth](openmhealth.org)
+-   [small data apps](smalldata.io)
+
+# Design and Ethics in the Era of Big Data
+
+-   sensor is everywhere
+-   data as a commodity
+-   responsible? designers : consumers
+
+# Advancing the Frontier of Data-driven Healthcare
+
+# Really, Really Big Data - NASA at the Forefront of Analytics
+
+# Can Twitter Proxy the Investors’ Sentiment? The Case for the Technology Sector
+
