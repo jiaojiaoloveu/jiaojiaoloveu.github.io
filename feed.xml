@@ -6,9 +6,24 @@
 </description>
     <link>http://jiaojiaoloveu.github.io/</link>
     <atom:link href="http://jiaojiaoloveu.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 26 Sep 2016 18:54:32 -0400</pubDate>
-    <lastBuildDate>Mon, 26 Sep 2016 18:54:32 -0400</lastBuildDate>
+    <pubDate>Tue, 04 Oct 2016 12:19:00 -0400</pubDate>
+    <lastBuildDate>Tue, 04 Oct 2016 12:19:00 -0400</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>My week with Jasper</title>
+        <description>&lt;iframe width=&quot;420&quot; height=&quot;315&quot; src=&quot;http://www.youtube.com/embed/dQw4w9WgXcQ&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+</description>
+        <pubDate>Tue, 04 Oct 2016 08:00:00 -0400</pubDate>
+        <link>http://jiaojiaoloveu.github.io/waterloo/2016/10/04/MyDays.html</link>
+        <guid isPermaLink="true">http://jiaojiaoloveu.github.io/waterloo/2016/10/04/MyDays.html</guid>
+        
+        <category>affairs</category>
+        
+        
+        <category>Waterloo</category>
+        
+      </item>
     
       <item>
         <title>cs886 Talk on Big Data</title>
