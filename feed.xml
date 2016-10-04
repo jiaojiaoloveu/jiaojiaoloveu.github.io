@@ -6,13 +6,35 @@
 </description>
     <link>http://jiaojiaoloveu.github.io/</link>
     <atom:link href="http://jiaojiaoloveu.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 04 Oct 2016 12:19:00 -0400</pubDate>
-    <lastBuildDate>Tue, 04 Oct 2016 12:19:00 -0400</lastBuildDate>
+    <pubDate>Tue, 04 Oct 2016 12:47:38 -0400</pubDate>
+    <lastBuildDate>Tue, 04 Oct 2016 12:47:38 -0400</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
         <title>My week with Jasper</title>
-        <description>&lt;iframe width=&quot;420&quot; height=&quot;315&quot; src=&quot;http://www.youtube.com/embed/dQw4w9WgXcQ&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/yeTUpvzmxJg&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/Mw09nozaXtE&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;学会了在blog里面插入视频！我真厉害！&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;一直是矛盾又别扭的人&lt;/p&gt;
+
+&lt;p&gt;可以因为一件很小的事情轻易的去喜欢一个人 离开的却一点都不潇洒 弃女复仇记在脑子里演了几百遍 实际还是软弱的包子性格&lt;/p&gt;
+
+&lt;p&gt;其实没有很伤心 可能是已经习惯了吧&lt;/p&gt;
+
+&lt;p&gt;原本我也是那么嚣张跋扈的人啊 喜欢就一定要惊天动地 不到手誓不罢休 就算分别也要流着眼泪最后一吻&lt;/p&gt;
+
+&lt;p&gt;到底是变得成熟了 还是变老了？&lt;/p&gt;
+
+&lt;p&gt;费费啊 你总是说我不乖不懂事 像极了几年前的你 那你告诉我 为什么我这么乖 不哭也不闹 还是伤心收场？&lt;/p&gt;
+
+&lt;p&gt;也想找一个自己不喜欢的人不走心的在一起 可是好像很难坚持呢&lt;/p&gt;
+
+&lt;p&gt;费费 我好想你&lt;/p&gt;
 </description>
         <pubDate>Tue, 04 Oct 2016 08:00:00 -0400</pubDate>
         <link>http://jiaojiaoloveu.github.io/waterloo/2016/10/04/MyDays.html</link>
@@ -27,14 +49,14 @@
     
       <item>
         <title>cs886 Talk on Big Data</title>
-        <description>&lt;h1 id=&quot;data-mining-meets-in-city-hall&quot;&gt;Data Mining Meets in City Hall&lt;/h1&gt;
+        <description>&lt;h3 id=&quot;data-mining-meets-in-city-hall&quot;&gt;Data Mining Meets in City Hall&lt;/h3&gt;
 
 &lt;ul&gt;
   &lt;li&gt;data.gov: tailor it open data offerings to the wants and demands through the creation of online communities.&lt;/li&gt;
   &lt;li&gt;reaching the public: accessible to the wealth.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h1 id=&quot;small-data-where-n--me&quot;&gt;small data, where n = me&lt;/h1&gt;
+&lt;h3 id=&quot;small-data-where-n--me&quot;&gt;small data, where n = me&lt;/h3&gt;
 
 &lt;ul&gt;
   &lt;li&gt;small data derived from our individual traces can change the way we think and practice health.&lt;/li&gt;
@@ -45,7 +67,7 @@
   &lt;li&gt;&lt;a href=&quot;smalldata.io&quot;&gt;small data apps&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h1 id=&quot;design-and-ethics-in-the-era-of-big-data&quot;&gt;Design and Ethics in the Era of Big Data&lt;/h1&gt;
+&lt;h3 id=&quot;design-and-ethics-in-the-era-of-big-data&quot;&gt;Design and Ethics in the Era of Big Data&lt;/h3&gt;
 
 &lt;ul&gt;
   &lt;li&gt;sensor is everywhere&lt;/li&gt;
@@ -53,11 +75,11 @@
   &lt;li&gt;responsible? designers : consumers&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h1 id=&quot;advancing-the-frontier-of-data-driven-healthcare&quot;&gt;Advancing the Frontier of Data-driven Healthcare&lt;/h1&gt;
+&lt;h3 id=&quot;advancing-the-frontier-of-data-driven-healthcare&quot;&gt;Advancing the Frontier of Data-driven Healthcare&lt;/h3&gt;
 
-&lt;h1 id=&quot;really-really-big-data---nasa-at-the-forefront-of-analytics&quot;&gt;Really, Really Big Data - NASA at the Forefront of Analytics&lt;/h1&gt;
+&lt;h3 id=&quot;really-really-big-data---nasa-at-the-forefront-of-analytics&quot;&gt;Really, Really Big Data - NASA at the Forefront of Analytics&lt;/h3&gt;
 
-&lt;h1 id=&quot;can-twitter-proxy-the-investors-sentiment-the-case-for-the-technology-sector&quot;&gt;Can Twitter Proxy the Investors’ Sentiment? The Case for the Technology Sector&lt;/h1&gt;
+&lt;h3 id=&quot;can-twitter-proxy-the-investors-sentiment-the-case-for-the-technology-sector&quot;&gt;Can Twitter Proxy the Investors’ Sentiment? The Case for the Technology Sector&lt;/h3&gt;
 
 </description>
         <pubDate>Thu, 15 Sep 2016 12:00:00 -0400</pubDate>
