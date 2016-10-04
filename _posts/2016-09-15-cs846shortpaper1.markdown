@@ -7,12 +7,12 @@ categories: CourseNote
 tags: waterloo big_data
 ---
 
-# Data Mining Meets in City Hall
+### Data Mining Meets in City Hall
 
 -   data.gov: tailor it open data offerings to the wants and demands through the creation of online communities.
 -   reaching the public: accessible to the wealth.
 
-# small data, where n = me
+### small data, where n = me
 
 -   small data derived from our individual traces can change the way we think and practice health.
 -   behaviour pulse graph
@@ -21,15 +21,15 @@ tags: waterloo big_data
 -   [open mHealth](openmhealth.org)
 -   [small data apps](smalldata.io)
 
-# Design and Ethics in the Era of Big Data
+### Design and Ethics in the Era of Big Data
 
 -   sensor is everywhere
 -   data as a commodity
 -   responsible? designers : consumers
 
-# Advancing the Frontier of Data-driven Healthcare
+### Advancing the Frontier of Data-driven Healthcare
 
-# Really, Really Big Data - NASA at the Forefront of Analytics
+### Really, Really Big Data - NASA at the Forefront of Analytics
 
-# Can Twitter Proxy the Investors’ Sentiment? The Case for the Technology Sector
+### Can Twitter Proxy the Investors’ Sentiment? The Case for the Technology Sector
 
