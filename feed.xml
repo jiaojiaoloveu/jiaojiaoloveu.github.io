@@ -6,9 +6,55 @@
 </description>
     <link>http://jiaojiaoloveu.github.io/</link>
     <atom:link href="http://jiaojiaoloveu.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 16 Oct 2016 12:17:46 -0400</pubDate>
-    <lastBuildDate>Sun, 16 Oct 2016 12:17:46 -0400</lastBuildDate>
+    <pubDate>Wed, 19 Oct 2016 08:48:36 -0400</pubDate>
+    <lastBuildDate>Wed, 19 Oct 2016 08:48:36 -0400</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>cs846 Regular paper talk 1</title>
+        <description>&lt;h3 id=&quot;a-data-driven-framework-for-archiving-and-exploring-social-media-data&quot;&gt;A data-driven framework for archiving and exploring social media data&lt;/h3&gt;
+
+&lt;p&gt;Social media data present challenges in four dimensions&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;volume&lt;/li&gt;
+  &lt;li&gt;velocity&lt;/li&gt;
+  &lt;li&gt;variety&lt;/li&gt;
+  &lt;li&gt;veracity&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;System architecture&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;resources&lt;/li&gt;
+  &lt;li&gt;repository&lt;/li&gt;
+  &lt;li&gt;processor&lt;/li&gt;
+  &lt;li&gt;client&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Workflow&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;web portal&lt;/li&gt;
+  &lt;li&gt;web server&lt;/li&gt;
+  &lt;li&gt;data server(data manager, preprocessor, archiver)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;global-trends-in-satellite-based-emergency-mapping&quot;&gt;Global trends in satellite-based emergency mapping&lt;/h3&gt;
+
+</description>
+        <pubDate>Tue, 18 Oct 2016 00:00:00 -0400</pubDate>
+        <link>http://jiaojiaoloveu.github.io/coursenote/2016/10/18/cs846regularpaper1.html</link>
+        <guid isPermaLink="true">http://jiaojiaoloveu.github.io/coursenote/2016/10/18/cs846regularpaper1.html</guid>
+        
+        <category>waterloo</category>
+        
+        <category>big_data</category>
+        
+        
+        <category>CourseNote</category>
+        
+      </item>
     
       <item>
         <title>My Days</title>
