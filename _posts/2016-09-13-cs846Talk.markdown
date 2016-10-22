@@ -7,8 +7,8 @@ categories: CourseNote
 tags: waterloo big_data
 ---
 
-# PCA Facial Recognition
+### PCA Facial Recognition
 
-# Small Data Enables Prediction of Obama Wins
+### Small Data Enables Prediction of Obama Wins
 
-# Industry
+### Industry
