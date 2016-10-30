@@ -1,0 +1,13 @@
+---
+layout: post
+title: "cs848 Modern Data Processing System"
+author: BabyNine
+categories: diary
+tags: waterloo programming
+---
+
+This course is a little bit difficult for me, especially with little background knowledge of database or distributed system things. Read at least one ten-page paper and hand in a paper review each class are almost killing me. I have totally no idea about how raw data flows in their system, and also I can't see any differences between these related models. They are too good for me. Think about the implementation process of their ``imaginary" models! Poor researchers!
+
+Howerver, I'm not giving up! My expectation is knowing the most important features/characterisctics of these popular distibuted systems. It's like, wandering in shopping centers but buying nothing still feels good. To feel others' intelligence can do some benefits to me, I believe.
+
+If only someone could take care of me, like cooking and washing cloths! Life is messy! Too much trivial things in life are taking my concentation and precious time! QAQ
