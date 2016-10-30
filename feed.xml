@@ -6,9 +6,30 @@
 </description>
     <link>http://jiaojiaoloveu.github.io/</link>
     <atom:link href="http://jiaojiaoloveu.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 22 Oct 2016 14:19:53 -0400</pubDate>
-    <lastBuildDate>Sat, 22 Oct 2016 14:19:53 -0400</lastBuildDate>
+    <pubDate>Sun, 30 Oct 2016 16:58:51 -0400</pubDate>
+    <lastBuildDate>Sun, 30 Oct 2016 16:58:51 -0400</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>cs848 Modern Data Processing System</title>
+        <description>&lt;p&gt;This course is a little bit difficult for me, especially with little background knowledge of database or distributed system things. Read at least one ten-page paper and hand in a paper review each class are almost killing me. I have totally no idea about how raw data flows in their system, and also I can’t see any differences between these related models. They are too good for me. Think about the implementation process of their ``imaginary” models! Poor researchers!&lt;/p&gt;
+
+&lt;p&gt;Howerver, I’m not giving up! My expectation is knowing the most important features/characterisctics of these popular distibuted systems. It’s like, wandering in shopping centers but buying nothing still feels good. To feel others’ intelligence can do some benefits to me, I believe.&lt;/p&gt;
+
+&lt;p&gt;If only someone could take care of me, like cooking and washing cloths! Life is messy! Too much trivial things in life are taking my concentation and precious time! QAQ&lt;/p&gt;
+</description>
+        <pubDate>Sun, 30 Oct 2016 00:00:00 -0400</pubDate>
+        <link>http://jiaojiaoloveu.github.io/diary/2016/10/30/cs848paper.html</link>
+        <guid isPermaLink="true">http://jiaojiaoloveu.github.io/diary/2016/10/30/cs848paper.html</guid>
+        
+        <category>waterloo</category>
+        
+        <category>programming</category>
+        
+        
+        <category>diary</category>
+        
+      </item>
     
       <item>
         <title>The beauty and the beast</title>
