@@ -6,9 +6,56 @@
 </description>
     <link>http://jiaojiaoloveu.github.io/</link>
     <atom:link href="http://jiaojiaoloveu.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 30 Oct 2016 16:58:51 -0400</pubDate>
-    <lastBuildDate>Sun, 30 Oct 2016 16:58:51 -0400</lastBuildDate>
+    <pubDate>Tue, 17 Jan 2017 16:51:39 -0500</pubDate>
+    <lastBuildDate>Tue, 17 Jan 2017 16:51:39 -0500</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Coursenote for Developing Android</title>
+        <description>&lt;h3 id=&quot;learning-android-studio&quot;&gt;Learning Android Studio&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Add the following syntax to &lt;code class=&quot;highlighter-rouge&quot;&gt;build.gradle&lt;/code&gt; when using ConstraintLayout:&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;compile ‘com.android.support.constraint:constraint-layout:1.0.0-alpha7’&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;SDK Manager&lt;/code&gt;: Tools -&amp;gt; Android -&amp;gt; SDK Manager&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Tue, 17 Jan 2017 00:00:00 -0500</pubDate>
+        <link>http://jiaojiaoloveu.github.io/coursenote/2017/01/17/Android.html</link>
+        <guid isPermaLink="true">http://jiaojiaoloveu.github.io/coursenote/2017/01/17/Android.html</guid>
+        
+        <category>Android</category>
+        
+        <category>Udacity</category>
+        
+        
+        <category>coursenote</category>
+        
+      </item>
+    
+      <item>
+        <title>References for CS 848 Project(Spark + Tensorflow)</title>
+        <description>&lt;h3 id=&quot;mnist&quot;&gt;MNIST&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://colah.github.io/posts/2014-10-Visualizing-MNIST/&quot;&gt;Visualizing MNIST: An Exploration of Dimensionality Reduction&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 17 Nov 2016 11:00:00 -0500</pubDate>
+        <link>http://jiaojiaoloveu.github.io/bigdata/2016/11/17/Spark_Tensorflow.html</link>
+        <guid isPermaLink="true">http://jiaojiaoloveu.github.io/bigdata/2016/11/17/Spark_Tensorflow.html</guid>
+        
+        <category>Spark</category>
+        
+        <category>Tensorflow</category>
+        
+        
+        <category>BigData</category>
+        
+      </item>
     
       <item>
         <title>cs848 Modern Data Processing System</title>
